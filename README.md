@@ -1,6 +1,6 @@
-# system32-understanding-method
+# system33-understanding-method
 A six-stage learning method. Works with any AI or on your own. Stop memorizing. Start understanding.
-# System 32 — Understanding Method
+# System 33 — Understanding Method
 
 A six-stage method for learning anything by finding out where it came from, why it exists, and how it's actually used. Works with any AI, or on your own.
 
