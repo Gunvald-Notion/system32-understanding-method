@@ -1,5 +1,50 @@
 # system33-understanding-method
 A six-stage learning method. Works with any AI or on your own. Stop memorizing. Start understanding.
+
+---
+
+## Version History
+
+```mermaid
+gantt
+    title Understanding Method — Version History
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d, %Y
+
+    section System 32
+        Private Development           :done, 2026-01-07, 2026-04-14
+
+    section System 33
+        Public Release                :active, 2026-04-07, 2026-04-14
+```
+
+## System 33 — Method Ecosystem
+
+```mermaid
+graph TD
+    S33["🧠 System 33"]
+    S33 --> UM["Understanding Method"]
+    S33 --> FDM["Financial Decision Method"]
+    S33 --> Galdr["Galdr — Mathematical Language"]
+    S33 --> MORE["...more methods"]
+```
+
+## The Six Stages — Flow
+
+```mermaid
+graph LR
+    S1["1. Intake\nPosition the concept"]
+    S2["2. Origin\nFind why it was created"]
+    S3["3. Principle\nExtract the bedrock truth"]
+    S4["4. Expansion\nSee it in the real world"]
+    S5["5. Application\nConnect it to your life"]
+    S6["6. Output\nCapture what you built"]
+
+    S1 --> S2 --> S3 --> S4 --> S5 --> S6
+```
+
+---
+
 # System 33 — Understanding Method
 
 A six-stage method for learning anything by finding out where it came from, why it exists, and how it's actually used. Works with any AI, or on your own.
@@ -250,7 +295,7 @@ Compression — *"Two sides, always equal. Left is yours, right is owed."*
 
 ## About
 
-Created by Gunvald. Part of System 32 — an operating system for thinking.
+Created by Gunvald. Part of System 33 — an operating system for thinking.
 
 License: MIT — free to use, copy, modify, and share.
 
@@ -259,3 +304,7 @@ License: MIT — free to use, copy, modify, and share.
 ## Build Log
 
 *April 7, 2026* — Product page created. Strategy defined. README v1 drafted.
+
+*April 10, 2026* — Renamed from System 32 to System 33.
+
+*April 14, 2026* — Added Mermaid diagrams: version history, method ecosystem tree, and six-stage flow visualization.
